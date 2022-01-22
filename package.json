@@ -44,7 +44,7 @@
     "browser-sync": "^2.26.3",
     "buble": "^0.19.6",
     "jsdom": "^13.0.0",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^3.1.1",
     "nyc": "^13.1.0",
     "postcss-cli": "^6.0.1",
     "postcss-custom-properties": "^8.0.9",
