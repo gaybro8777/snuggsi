@@ -43,7 +43,7 @@
     "autoprefixer": "^9.4.2",
     "browser-sync": "^2.26.3",
     "buble": "^0.19.6",
-    "jsdom": "^13.0.0",
+    "jsdom": "^16.5.0",
     "node-fetch": "^2.3.0",
     "nyc": "^13.1.0",
     "postcss-cli": "^6.0.1",
